@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "sort.h"
 /**
  * bubble_sort - is a function that sorts array of ints
