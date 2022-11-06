@@ -4,6 +4,7 @@
  * selection_sort - function that sorts a given list of ints
  * @array: This is the list of ints to be sorted ascendingly
  * @size: this is the array size
+ * Return: No return item
  */
 
 void selection_sort(int *array, size_t size)
