@@ -44,4 +44,9 @@ What is a stable sorting algorithm
     divides the unsorted list into n sublist
     each containing one element
     repeatedly, merge the sublist to produce the sorted list
-# Task 4:
+# Task 8: Heap sort
+    This is a comparison based algorithm
+    it can be though t of as improved selection sort
+    it divides its input into an unsorted region and
+    iteratively shrinks the unsorted regions by removing the largest elements and inserts into the sorted region
+    

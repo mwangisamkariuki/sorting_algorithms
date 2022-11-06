@@ -26,4 +26,7 @@ void _qsort(int *a, int low, int high, int size);
 void counting_sort(int *array, size_t size);
 void merge_sort(int *array, size_t size);
 void merge_partition(size_t lo, size_t hi, int *array, int *base);
+void swap_root(int *array, size_t root, size_t hi, size_t size);
+void heap_sort(int *array, size_t size);
+
 #endif /*sorting*/
