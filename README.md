@@ -36,4 +36,12 @@ What is a stable sorting algorithm
     partitioning the other elements into two sub-arrays,
     according to whether they are less than or greater than the pivot. For this reason,
     it is sometimes called partition-exchange sort.
-# Task 1:
+# Task 4:
+# Task 5:
+# Task 6: Counting Sort
+# Task 7: Merge Sort
+    divide and conqur algorithm
+    divides the unsorted list into n sublist
+    each containing one element
+    repeatedly, merge the sublist to produce the sorted list
+# Task 4:
